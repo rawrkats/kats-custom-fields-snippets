@@ -1,0 +1,7 @@
+#kcfs-ul-list {
+	list-style: none;
+}
+
+#kcfs-ul-list li button {
+	float: right;
+}
